@@ -4,6 +4,8 @@ mats-orbitsimulator
 
 Orbit simulator for MATS
 
+Initially only Jupyter notebooks with essential routines will be added
+
 Installation
 ==========
 
